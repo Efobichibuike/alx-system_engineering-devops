@@ -1,2 +1,2 @@
-#!/bin/basdh
-cd ~
+#!/bin/bash
+pwd
